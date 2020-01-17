@@ -609,12 +609,9 @@ Se recomienda leer el [capítulo 6: GitHub][4], del libro [Pro Git][3] de Scott 
 
 ## Créditos
 
-* La *Figura 1* es una imagen diseñada por [Oliver Steele](http://osteele.com).
-* La *Figura 2* es una imagen extraída del blog de [James Chambers](http://jameschambers.co/writing/git-team-workflow-cheatsheet/).
-
 ## Autor
 
-Este material ha sido desarrollado por [José Juan Sánchez](http://josejuansanchez.org).
+Este material ha sido desarrollado por [William Quinter](http://williamquintero.com).
 
 ## Licencia
 
