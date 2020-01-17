@@ -611,7 +611,7 @@ Se recomienda leer el [capítulo 6: GitHub][4], del libro [Pro Git][3] de Scott 
 
 ## Autor
 
-Este material ha sido desarrollado por [William Quinter](http://williamquintero.com).
+Este material ha sido desarrollado por [William Quintero](http://williamquintero.com).
 
 ## Licencia
 
